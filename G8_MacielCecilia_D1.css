@@ -1,0 +1,81 @@
+﻿body {
+  background-color: rgba(194, 2, 253, 0.123)
+}
+
+header {
+  color: rgba(0, 0, 0, 0.699);
+  background: linear-gradient(90deg,#fff,#84eb23);
+  justify-content: space-around;
+  align-items: flex-end;
+  height: 150px;
+  font-style: Verdana;
+  border-style: double;
+  font-size: 2em;
+}
+
+.navbar {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  justify-content: space-around;
+  flex-direction: row;
+  background-color: rgba(13, 236, 225, 0.418);
+  height: 40px;
+  align-items: center;
+  border-style: unset;
+}
+
+.links {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: rgb(82, 14, 40);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+section {
+  color: rgba(29, 51, 247, 0.767);
+  display: flexbox;
+  flex-direction: column;
+  background-color: rgba(40, 255, 183, 0.281);
+  border-style: unset;
+  margin-left: 2%;
+  margin-right: 4%;
+}
+
+.texto {
+  color: rgb(28, 0, 128)
+  font-size: 1.3em;
+}
+
+h2 {
+  font-family: "Georgia", serif;
+  font-style: italic;
+  display: flexbox;
+  background-color: rgba(107, 235, 90, 0.329);
+  text-align: center;
+  width: 400px;
+  font-size: 2rem;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+footer {
+  font-style: italic;
+  font-weight: bold;
+  background-color: #c100da15;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(11, 119, 60);
+  font-size: 1.5em;
+}
+
+.imagen {
+  border-width: 4px;
+  border-style: unset;
+  border-radius: 4em;
+  margin: 10px 5px 5px 10px;
+  }
+
+  
