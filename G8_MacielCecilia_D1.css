@@ -1,5 +1,5 @@
 ﻿body {
-  background-color: rgba(194, 2, 253, 0.123)
+  background-color: rgba(249, 230, 255, 0.123)
 }
 
 header {
@@ -29,12 +29,12 @@ header {
   font-size: 1.5rem;
   font-weight: bold;
   text-decoration: none;
-  color: rgb(82, 14, 40);
+  color: rgb(150, 16, 16);
   font-family: 'Times New Roman', Times, serif;
 }
 
 section {
-  color: rgba(29, 51, 247, 0.767);
+  color: rgba(255, 252, 215, 0.767);
   display: flexbox;
   flex-direction: column;
   background-color: rgba(40, 255, 183, 0.281);
@@ -44,8 +44,8 @@ section {
 }
 
 .texto {
-  color: rgb(28, 0, 128)
-  font-size: 1.3em;
+  color: rgb(8, 6, 14);
+  font-size: 1.3px;
 }
 
 h2 {
@@ -77,5 +77,3 @@ footer {
   border-radius: 4em;
   margin: 10px 5px 5px 10px;
   }
-
-  
